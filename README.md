@@ -2,6 +2,10 @@
 
 Welcome to the HTML CSS Transition Showcase repository! This project is designed to demonstrate various HTML and CSS transition features. Whether you're a beginner looking to learn or a seasoned developer seeking inspiration, you'll find examples and code snippets to enhance your projects.
 
+
+![page_showcase](https://github.com/aakif100/HTML-Transitions-Tutorial/assets/137098447/0e307f0c-2590-4f35-95df-09692d4bac2b)
+
+
 ## Features
 
 - Smooth transitions for different HTML elements
