@@ -1,4 +1,4 @@
-# HTML CSS Transition Showcase
+# HTML CSS Transition Animation Showcase
 
 Welcome to the HTML CSS Transition Showcase repository! This project is designed to demonstrate various HTML and CSS transition features. Whether you're a beginner looking to learn or a seasoned developer seeking inspiration, you'll find examples and code snippets to enhance your projects.
 
